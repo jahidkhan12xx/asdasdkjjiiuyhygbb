@@ -1,0 +1,135 @@
+[
+    {
+      "id" :"101",
+      "img": "https://i.ibb.co/BrFk120/Health.png",
+      "title": "Clean water for children",
+      "cat_title": "Health",
+      "cat_bg_color": "#0052FF33",
+      "card_bg_color": "#0052FF26",
+      "font_color": "#0052FF",
+      "description": "Clean water is a fundamental human right that is essential for the well-being and development of children. Access to clean water ensures that children can drink, bathe, and maintain good hygiene, reducing the risk of waterborne diseases. In many parts of the world, children, especially in marginalized communities, lack access to safe drinking water, leading to preventable illnesses and even death. Initiatives focused on providing clean water for children aim to alleviate this crisis by building wells, water purification systems, and educating communities on water conservation and sanitation practices. By ensuring clean water for children, we not only improve their health but also create the foundation for a brighter future by reducing absenteeism in schools and promoting overall well-being.",
+      "donate_amount": 500
+    },
+    {
+      "id" : "102",
+      "img": "https://i.ibb.co/cczQf94/Education.png",
+      "title": "Good education",
+      "cat_title": "Education",
+      "cat_bg_color": "#FF444A33",
+      "card_bg_color": "#FF444A26",
+      "font_color": "#FF444A",
+      "description": "Education is a powerful tool that can transform the lives of children and communities alike. Providing quality education is vital for children to develop essential skills, knowledge, and critical thinking abilities. It empowers them to break the cycle of poverty, pursue their dreams, and contribute positively to society. Good education initiatives often focus on building schools, training teachers, providing educational materials, and ensuring that children, regardless of their background, have equal opportunities to learn. By investing in good education for children, we invest in the future workforce, leaders, and innovators who will shape our world.",
+      "donate_amount": 700
+    },
+    {
+      "id" : "103",
+      "img": "https://i.ibb.co/pJDc83w/Clothing.png",
+      "title": "Used Clothing Drive",
+      "cat_title": "Clothing",
+      "cat_bg_color": "#79C23F33",
+      "card_bg_color": "#79C23F26",
+      "font_color": "#79C23F",
+      "description": "Used clothing drives play a crucial role in supporting disadvantaged children and families. These initiatives collect gently used clothing and distribute them to those in need. For many children living in poverty, access to appropriate clothing is a constant struggle. A used clothing drive not only helps keep children warm and comfortable but also boosts their self-esteem, allowing them to feel more confident in their appearance. Moreover, it promotes sustainability by reducing textile waste and encourages the community to come together to support those less fortunate. By participating in or organizing a used clothing drive, individuals can make a tangible difference in the lives of children and contribute to a more equitable society.",
+      "donate_amount": 200
+    },
+    {
+      "id" : "104",
+      "img": "https://i.ibb.co/VBhm09D/Food.png",
+      "title": "Better Food for Everyone",
+      "cat_title": "Food",
+      "cat_bg_color": "#F8714733",
+      "card_bg_color": "#F8714726",
+      "font_color": "#F87147",
+      "description": "Access to nutritious food is essential for the healthy growth and development of children. Initiatives focused on providing better food for everyone often target food-insecure communities where children may not have enough to eat or have access to unhealthy, low-nutrition options. These initiatives include community gardens, food banks, and programs that provide school meals to children in need. Ensuring children have access to a balanced diet not only improves their physical health but also enhances their cognitive development and ability to excel academically. Moreover, promoting better food options for everyone fosters a culture of health and well-being within communities, leading to a healthier and more prosperous future for children and society as a whole.",
+      "donate_amount": 400
+    },
+    {
+      "id" : "105",
+        "img": "https://i.ibb.co/VBhm09D/Food.png",
+        "title": "Better Food for Everyone",
+        "cat_title": "Food",
+        "cat_bg_color": "#F8714733",
+        "card_bg_color": "#F8714726",
+        "font_color": "#F87147",
+        "description": "Access to nutritious food is essential for the healthy growth and development of children. Initiatives focused on providing better food for everyone often target food-insecure communities where children may not have enough to eat or have access to unhealthy, low-nutrition options. These initiatives include community gardens, food banks, and programs that provide school meals to children in need. Ensuring children have access to a balanced diet not only improves their physical health but also enhances their cognitive development and ability to excel academically. Moreover, promoting better food options for everyone fosters a culture of health and well-being within communities, leading to a healthier and more prosperous future for children and society as a whole.",
+        "donate_amount": 400
+    },
+    {
+      "id" : "106",
+        "img": "https://i.ibb.co/pJDc83w/Clothing.png",
+        "title": "Used Clothing Drive",
+        "cat_title": "Clothing",
+        "cat_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "font_color": "#79C23F",
+        "description": "Used clothing drives play a crucial role in supporting disadvantaged children and families. These initiatives collect gently used clothing and distribute them to those in need. For many children living in poverty, access to appropriate clothing is a constant struggle. A used clothing drive not only helps keep children warm and comfortable but also boosts their self-esteem, allowing them to feel more confident in their appearance. Moreover, it promotes sustainability by reducing textile waste and encourages the community to come together to support those less fortunate. By participating in or organizing a used clothing drive, individuals can make a tangible difference in the lives of children and contribute to a more equitable society.",
+        "donate_amount": 200
+    },
+    {
+      "id" : "107",
+        "img": "https://i.ibb.co/cczQf94/Education.png",
+        "title": "Good education",
+        "cat_title": "Education",
+        "cat_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "font_color": "#FF444A",
+        "description": "Education is a powerful tool that can transform the lives of children and communities alike. Providing quality education is vital for children to develop essential skills, knowledge, and critical thinking abilities. It empowers them to break the cycle of poverty, pursue their dreams, and contribute positively to society. Good education initiatives often focus on building schools, training teachers, providing educational materials, and ensuring that children, regardless of their background, have equal opportunities to learn. By investing in good education for children, we invest in the future workforce, leaders, and innovators who will shape our world.",
+        "donate_amount": 500
+    },
+    {
+      "id" : "108",
+        "img": "https://i.ibb.co/BrFk120/Health.png",
+        "title": "Clean water for children",
+        "cat_title": "Health",
+        "cat_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "font_color": "#0052FF",
+        "description": "Clean water is a fundamental human right that is essential for the well-being and development of children. Access to clean water ensures that children can drink, bathe, and maintain good hygiene, reducing the risk of waterborne diseases. In many parts of the world, children, especially in marginalized communities, lack access to safe drinking water, leading to preventable illnesses and even death. Initiatives focused on providing clean water for children aim to alleviate this crisis by building wells, water purification systems, and educating communities on water conservation and sanitation practices. By ensuring clean water for children, we not only improve their health but also create the foundation for a brighter future by reducing absenteeism in schools and promoting overall well-being.",
+        "donate_amount": 700
+    },
+    {
+      "id" : "109",
+        "img": "https://i.ibb.co/BrFk120/Health.png",
+        "title": "Clean water for children",
+        "cat_title": "Health",
+        "cat_bg_color": "#0052FF33",
+        "card_bg_color": "#0052FF26",
+        "font_color": "#0052FF",
+        "description": "Clean water is a fundamental human right that is essential for the well-being and development of children. Access to clean water ensures that children can drink, bathe, and maintain good hygiene, reducing the risk of waterborne diseases. In many parts of the world, children, especially in marginalized communities, lack access to safe drinking water, leading to preventable illnesses and even death. Initiatives focused on providing clean water for children aim to alleviate this crisis by building wells, water purification systems, and educating communities on water conservation and sanitation practices. By ensuring clean water for children, we not only improve their health but also create the foundation for a brighter future by reducing absenteeism in schools and promoting overall well-being.",
+        "donate_amount": 700
+    },
+    {
+      "id" : "110",
+        "img": "https://i.ibb.co/cczQf94/Education.png",
+        "title": "Good education",
+        "cat_title": "Education",
+        "cat_bg_color": "#FF444A33",
+        "card_bg_color": "#FF444A26",
+        "font_color": "#FF444A",
+        "description": "Education is a powerful tool that can transform the lives of children and communities alike. Providing quality education is vital for children to develop essential skills, knowledge, and critical thinking abilities. It empowers them to break the cycle of poverty, pursue their dreams, and contribute positively to society. Good education initiatives often focus on building schools, training teachers, providing educational materials, and ensuring that children, regardless of their background, have equal opportunities to learn. By investing in good education for children, we invest in the future workforce, leaders, and innovators who will shape our world.",
+        "donate_amount": 500
+    },
+    {
+      "id" : "111",
+        "img": "https://i.ibb.co/pJDc83w/Clothing.png",
+        "title": "Used Clothing Drive",
+        "cat_title": "Clothing",
+        "cat_bg_color": "#79C23F33",
+        "card_bg_color": "#79C23F26",
+        "font_color": "#79C23F",
+        "description": "Used clothing drives play a crucial role in supporting disadvantaged children and families. These initiatives collect gently used clothing and distribute them to those in need. For many children living in poverty, access to appropriate clothing is a constant struggle. A used clothing drive not only helps keep children warm and comfortable but also boosts their self-esteem, allowing them to feel more confident in their appearance. Moreover, it promotes sustainability by reducing textile waste and encourages the community to come together to support those less fortunate. By participating in or organizing a used clothing drive, individuals can make a tangible difference in the lives of children and contribute to a more equitable society.",
+        "donate_amount": 200
+    },
+    {
+      "id" :"112",
+        "img": "https://i.ibb.co/VBhm09D/Food.png",
+        "title": "Better Food for Everyone",
+        "cat_title": "Food",
+        "cat_bg_color": "#F8714733",
+        "card_bg_color": "#F8714726",
+        "font_color": "#F87147",
+        "description": "Access to nutritious food is essential for the healthy growth and development of children. Initiatives focused on providing better food for everyone often target food-insecure communities where children may not have enough to eat or have access to unhealthy, low-nutrition options. These initiatives include community gardens, food banks, and programs that provide school meals to children in need. Ensuring children have access to a balanced diet not only improves their physical health but also enhances their cognitive development and ability to excel academically. Moreover, promoting better food options for everyone fosters a culture of health and well-being within communities, leading to a healthier and more prosperous future for children and society as a whole.",
+        "donate_amount": 400
+    }
+  ]
+  
